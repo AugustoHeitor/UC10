@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "email": "augusto123@gmail.com",
+      "password": "$2a$10$wnGvmAnsq7BI8W7/iJ7gUOdl9O2xXqZo5kDQxN.SZEDrKojpFqsqG",
+      "nome": "Augusto2",
+      "id": 1
+    },
+    {
+      "email": "augusto222@gmail.com",
+      "password": "$2a$10$llguFIrhum1SghcMhzSt9eKZ4Q8g7jIObSBdD3m/Aji5v4altH6/O",
+      "nome": "Augusto",
+      "id": 2
+    }
+    {
+      "email": "augusto@gmail.com",
+      "password": "teste",
+      "nome": "Augusto",
+      "id": 3
+    }
+  ],
+  "noticias": [
+    {
+      "id": 2,
+      "imagem": "assets/img/1.png",
+      "titulo": "Hoje está frio",
+      "descricao": "Hoje no Mato Grosso está frio"
+    },
+    {
+      "id": 3,
+      "imagem": "assets/img/1.png",
+      "titulo": "Hoje está frio",
+      "descricao": "Hoje no Mato Grosso está frio"
+    },
+    {
+      "id": 4,
+      "imagem": "assets/img/1.png",
+      "titulo": "Hoje está frio",
+      "descricao": "Hoje no Mato Grosso está frio"
+    },
+    {
+      "id": 5,
+      "imagem": "assets/img/1.png",
+      "titulo": "Hoje está frio",
+      "descricao": "Hoje no Mato Grosso está frio"
+    },
+    {
+      "id": 6,
+      "imagem": "assets/img/1.png",
+      "titulo": "Hoje está frio",
+      "descricao": "Hoje no Mato Grosso está frio"
+    },
+    {
+      "id": 7,
+      "imagem": "assets/img/1.png",
+      "titulo": "Hoje está frio",
+      "descricao": "Hoje no Mato Grosso está frio"
+    },
+    {
+      "imagem": "assets/img/1.png",
+      "titulo": "Hoje está quente",
+      "descricao": "Hoje no Mato Grosso está quente",
+      "id": 8
+    }
+  ]
+}

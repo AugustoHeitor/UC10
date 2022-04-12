@@ -1,0 +1,16 @@
+
+
+<div id="formulario">
+    <form #userForm="ngForm" (ngSubmit)="onSubmit()">
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+        </div>
+        <div>
+            <label for="senha">Senha:</label>
+            <input type="password" id="senha" name="senha">
+        </div>
+
+        <button type="submit">Enviar</button>
+    </form>
+</div>
